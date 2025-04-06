@@ -16,7 +16,6 @@
 
 ## Let's Connect
 
-- 📩 **Email:** [gugaldegutierrez@acm.org](mailto:gugaldegutierrez@acm.org)  
 - 🔗 **LinkedIn:** [geiber-ugalde](https://www.linkedin.com/in/geiber-ugalde-guti%C3%A9rrez-7a0a4b196/) 
 - 🔗 **Web:** [geiber.dev](http://geiber.dev)
 
