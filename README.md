@@ -1,19 +1,5 @@
 # Data & Analytics Engineer
 
-## About Me 
-
-**IT engineer** with over 20 years of professional experience. My background started in software development, encompassing design, development, and IT project management. Since 2014, I have served as a technical lead in developing data-driven solutions. Passionate about driving innovation in analytics, big data, AI, and ML engineering.
-
-## Education
-
-- **M. in Data Analytics Intelligence**  
-  <small>Universidad de Los Andes</small>
-- **M. in Computer Science**  
-  <small>Universidad de Costa Rica</small>
-- **B. in Computer Engineering**  
-  <small>Tecnologico de Costa Rica</small>
-
-
 ## Credentials
 
 - **Microsoft Certified: Fabric Analytics Engineer Associatee**: [Credential ID](https://learn.microsoft.com/api/credentials/share/en-us/Geiber/67A49239487F9A3A?sharingId=51EE310CC9810D79)   
@@ -35,18 +21,3 @@
 - 🔗 **Web:** [geiber.dev](http://geiber.dev)
 
 
-
-<!--
-**arturo-ugalde/arturo-ugalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
